@@ -8,6 +8,6 @@ mvn3 clean package
 
 #Deploy instruction
 
-Deploy ```target/webwpp.war``` on Tomcat
+Deploy ```target/webapp.war``` on Tomcat
  
 #TODO
